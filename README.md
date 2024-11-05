@@ -1,14 +1,14 @@
 # 📊 Flipkart Home Appliances Sentiment Analysis
 
 <p align="center">
-  <img src="https://github.com/Nandaniipriya/Flipkart-Reviews-Sentiment-Analysis/raw/main/assests/Sentiment-Analysis.png" alt="Banner Image" width="80%">
+  <img src="https://github.com/Nandaniipriya/Flipkart-Reviews-Sentiment-Analysis/raw/main/assets/Sentiment-Analysis.png" alt="Banner Image" width="80%">
 </p>
 
 ## 📝 Overview
 This project analyzes customer sentiments from Flipkart's Home Appliances category reviews using Python and various data analytics techniques. The analysis provides insights into customer satisfaction levels and overall product perception through sentiment analysis of reviews and ratings.
 
 <p align="center">
-  <img src="https://github.com/Nandaniipriya/Flipkart-Reviews-Sentiment-Analysis/raw/main/assests/sample.png" alt="Sample" width="80%">
+  <img src="https://github.com/Nandaniipriya/Flipkart-Reviews-Sentiment-Analysis/raw/main/assets/sample.png" alt="Sample" width="80%">
 </p>
 
 ## 🎯 Key Objectives
@@ -33,7 +33,7 @@ This project analyzes customer sentiments from Flipkart's Home Appliances catego
 - Overall 70% of customers showed high satisfaction
 
 <p align="center">
-  <img src="https://github.com/Nandaniipriya/Flipkart-Reviews-Sentiment-Analysis/raw/main/assests/accuracy.png" alt="Result-1" width="80%">
+  <img src="https://github.com/Nandaniipriya/Flipkart-Reviews-Sentiment-Analysis/raw/main/assets/accuracy.png" alt="Result-1" width="80%">
 </p>
 
 ### Sentiment Analysis Results
@@ -42,7 +42,7 @@ This project analyzes customer sentiments from Flipkart's Home Appliances catego
 - Negative Sentiment: 5.80%
 
 <p align="center">
-  <img src="https://github.com/Nandaniipriya/Flipkart-Reviews-Sentiment-Analysis/raw/main/assests/confusion-matrix.png" alt="Result-2" width="80%">
+  <img src="https://github.com/Nandaniipriya/Flipkart-Reviews-Sentiment-Analysis/raw/main/assets/confusion-matrix.png" alt="Result-2" width="80%">
 </p>
 
 
